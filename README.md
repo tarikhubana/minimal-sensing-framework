@@ -3,7 +3,7 @@
 Analysis code for the paper:
 
 > **A minimal-sensing framework for quantifying heat pump flexibility and solar alignment without submetering: a university building case study**
-> Damir Špago, Tarik Hubana, Emir Nezirić, Mirza Šarić
+> Tarik Hubana, Damir Špago, Emir Nezirić, Mirza Šarić
 > *Under review, Ain Shams Engineering Journal.*
 
 The framework characterises heat pump operation and its alignment with photovoltaic
@@ -255,7 +255,7 @@ Please cite the paper rather than this repository:
 
 ```bibtex
 @article{spago2026minimalsensing,
-  author  = {\v{S}pago, Damir and Hubana, Tarik and Neziri\'{c}, Emir and \v{S}ari\'{c}, Mirza},
+  author  = {Hubana, Tarik and \v{S}pago, Damir and Neziri\'{c}, Emir and \v{S}ari\'{c}, Mirza},
   title   = {A minimal-sensing framework for quantifying heat pump flexibility
              and solar alignment without submetering: a university building case study},
   journal = {Ain Shams Engineering Journal},
