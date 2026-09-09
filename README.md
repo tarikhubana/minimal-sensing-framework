@@ -4,7 +4,6 @@ Analysis code for the paper:
 
 > **A minimal-sensing framework for quantifying heat pump flexibility and solar alignment without submetering: a university building case study**
 > Tarik Hubana, Damir Špago, Emir Nezirić, Mirza Šarić
-> *Under review, Ain Shams Engineering Journal.*
 
 The framework characterises heat pump operation and its alignment with photovoltaic
 (PV) generation using only data that existing buildings already produce: hydronic
