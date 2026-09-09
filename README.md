@@ -41,10 +41,7 @@ The pipeline covers four blocks:
 
 ## Data availability
 
-**The measurement data is not included in this repository.** The BMS records belong
-to the University "Džemal Bijedić" of Mostar and the PV settlement metering belongs
-to the distribution system operator; neither is ours to redistribute. Requests can be
-directed to the corresponding author.
+**The measurement data is not included in this repository.**
 
 To run the pipeline, place three Excel files in the repository root:
 
