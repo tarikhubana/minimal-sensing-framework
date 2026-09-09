@@ -245,25 +245,6 @@ quantification of thermal flexibility. In particular:
 
 ---
 
-## Citation
-
-Please cite the paper rather than this repository:
-
-```bibtex
-@article{spago2026minimalsensing,
-  author  = {Hubana, Tarik and \v{S}pago, Damir and Neziri\'{c}, Emir and \v{S}ari\'{c}, Mirza},
-  title   = {A minimal-sensing framework for quantifying heat pump flexibility
-             and solar alignment without submetering: a university building case study},
-  journal = {Ain Shams Engineering Journal},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
-## Contact
-
-Tarik Hubana — tarik.hubana@gmail.com
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
