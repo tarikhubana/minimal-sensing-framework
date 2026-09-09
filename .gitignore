@@ -1,0 +1,54 @@
+# -----------------------------------------------------------------------
+# Allowlist .gitignore.
+#
+# This working folder also holds the measurement data and the manuscript
+# drafts, none of which belong in the public repository. Everything is
+# therefore ignored by default and only the files that make up the repo
+# are added back.
+#
+# Tracked: README.md, LICENSE, .gitignore, code/*.py, figures/.gitkeep
+# -----------------------------------------------------------------------
+
+# ignore everything at the repository root
+/*
+
+# ... except these
+!/.gitignore
+!/README.md
+!/LICENSE
+!/code
+!/figures
+
+# inside code/: Python sources only (never cache/, results/, __pycache__/)
+/code/*
+!/code/*.py
+
+# inside figures/: nothing but the placeholder that keeps the folder
+/figures/*
+!/figures/.gitkeep
+
+# -----------------------------------------------------------------------
+# Belt and braces: these must never be committed even if the rules above
+# are edited later.
+# -----------------------------------------------------------------------
+*.xlsx
+*.xls
+*.xlsm
+*.parquet
+*.docx
+*.pptx
+*.pdf
+~$*
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
